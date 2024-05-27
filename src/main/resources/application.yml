@@ -14,3 +14,19 @@ spring:
     hibernate:
       ddl-auto: update
     database: mysql
+
+logging.level:
+  org.hibernate.SQL: debug
+
+
+
+
+
+
+
+
+
+
+
+
+
